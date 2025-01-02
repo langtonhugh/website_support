@@ -5,8 +5,12 @@ description: |
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "About me"
+      href: my_postcard.html
+    - text: "Some stuff"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Article posts"
+      href: blog.html
+    - icon: fab fa-github
+      href: https://github.com/langtonhugh/website_support
 output: distill::distill_article

@@ -1,0 +1,12 @@
+---
+title: "Posts"
+listing: posts
+---
+
+Here's a list of blog posts.
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
