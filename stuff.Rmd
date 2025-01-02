@@ -1,0 +1,19 @@
+---
+title: "Sam Langton"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+Landing page message.
+
+Here is something I've written, but not knitted.
+
+Listing my posts here.
+
+```{r}
+library(ggplot2)
+
+ggplot()
+```
+

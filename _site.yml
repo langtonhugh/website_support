@@ -6,9 +6,9 @@ output_dir: "docs"
 navbar:
   right:
     - text: "About me"
-      href: my_postcard.html
-    - text: "Some stuff"
       href: index.html
+    - text: "Some stuff"
+      href: stuff.html
     - text: "Article posts"
       href: blog.html
     - icon: fab fa-github

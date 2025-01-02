@@ -1,19 +1,20 @@
 ---
 title: "Sam Langton"
-description: |
-  Welcome to the website. I hope you enjoy it!
+image: "pika.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
-
-Landing page message.
-
-Here is something I've written, but not knitted.
-
-Listing my posts here.
-
-```{r}
-library(ggplot2)
-
-ggplot()
-```
-
+ 
+I work in research software support at AUMC.
