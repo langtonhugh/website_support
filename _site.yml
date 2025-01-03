@@ -1,9 +1,10 @@
-name: "."
+name: "My webby website"
 title: "Sam Langton"
 description: |
   Sam Langton
 output_dir: "docs"
 navbar:
+  search: false
   right:
     - text: "About me"
       href: index.html
